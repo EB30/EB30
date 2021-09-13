@@ -1,4 +1,8 @@
 ### Hi there 👋
+### Welcome!!
+### I am a student @ BU studying mathematics and computer science, currently interested in TCS (DP) and ML for the environment. 
+### Aspiring Polymath
+### Reading about John Locke right now. Woooh!
 
 <!--
 **EB30/EB30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
